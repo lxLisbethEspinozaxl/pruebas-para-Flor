@@ -1,0 +1,85 @@
+03/10/2018 7:09:30	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Human_ResourcesDB' del equipo 'LISY' por el usuario 'ASUS'.
+03/10/2018 7:09:30	Se inició la importación del esquema de la base de datos.
+03/10/2018 7:09:42	Recopilando credenciales de la base de datos
+03/10/2018 7:09:42	Recopilando opciones de base de datos
+03/10/2018 7:09:43	Recopilando la opción de configuración de ámbito de la base de datos genérica
+03/10/2018 7:09:43	Recopilando usuarios
+03/10/2018 7:09:43	Recopilando roles
+03/10/2018 7:09:43	Recopilando roles de aplicación
+03/10/2018 7:09:43	Recopilando pertenencias a roles
+03/10/2018 7:09:43	Recopilando grupos de archivos
+03/10/2018 7:09:43	Recopilando catálogos de texto completo
+03/10/2018 7:09:43	Recopilando ensamblados
+03/10/2018 7:09:43	Recopilando certificados
+03/10/2018 7:09:43	Recopilando claves asimétricas
+03/10/2018 7:09:43	Recopilando claves simétricas
+03/10/2018 7:09:43	Recopilando claves simétricas cifradas
+03/10/2018 7:09:43	Recopilando esquemas
+03/10/2018 7:09:43	Recopilando colecciones de esquemas XML
+03/10/2018 7:09:43	Recopilando tipos de datos definidos por el usuario
+03/10/2018 7:09:43	Recopilando tipos definidos por el usuario
+03/10/2018 7:09:43	Recopilando tipos de tabla
+03/10/2018 7:09:43	Recopilando claves únicas para tipos de tabla
+03/10/2018 7:09:43	Recopilando claves principales para tipos de tabla
+03/10/2018 7:09:43	Recopilando índices para tipos de tablas
+03/10/2018 7:09:43	Recopilando restricciones CHECK para tipos de tabla
+03/10/2018 7:09:43	Recopilando restricciones DEFAULT para tipos de tabla
+03/10/2018 7:09:43	Recopilando funciones de partición
+03/10/2018 7:09:43	Recopilando esquemas de partición
+03/10/2018 7:09:43	Recopilando funciones
+03/10/2018 7:09:43	Recopilando funciones cifradas
+03/10/2018 7:09:43	Recopilando agregados
+03/10/2018 7:09:43	Recopilando procedimientos
+03/10/2018 7:09:43	Recopilando procedimientos cifrados
+03/10/2018 7:09:43	Recopilando tablas
+03/10/2018 7:09:43	Recopilando claves principales
+03/10/2018 7:09:43	Recopilando restricciones UNIQUE
+03/10/2018 7:09:43	Recopilando claves externas
+03/10/2018 7:09:43	Recopilando restricciones DEFAULT
+03/10/2018 7:09:43	Recopilando restricciones CHECK
+03/10/2018 7:09:43	Recopilando vistas
+03/10/2018 7:09:43	Recopilando vistas cifradas
+03/10/2018 7:09:43	Recopilando índices
+03/10/2018 7:09:43	Recopilando estadísticas
+03/10/2018 7:09:43	Recopilando listas de palabras irrelevantes de índices de texto completo
+03/10/2018 7:09:43	Recopilando listas de propiedades de búsqueda
+03/10/2018 7:09:43	Recopilando propiedades de búsqueda
+03/10/2018 7:09:43	Recopilando índices de texto completo
+03/10/2018 7:09:43	Recopilando índices de almacenamiento de columnas
+03/10/2018 7:09:43	Recopilando índices espaciales
+03/10/2018 7:09:43	Recopilando índices XML
+03/10/2018 7:09:43	Recopilando índices XML selectivos
+03/10/2018 7:09:43	Recopilando desencadenadores cifrados
+03/10/2018 7:09:43	Recopilando desencadenadores
+03/10/2018 7:09:43	Recopilando DDL triggers cifrados y de CLR
+03/10/2018 7:09:43	Recopilando DDL triggers
+03/10/2018 7:09:43	Recopilando sinónimos
+03/10/2018 7:09:43	Recopilando valores predeterminados
+03/10/2018 7:09:43	Recopilando enlaces UDDT de restricción de datos
+03/10/2018 7:09:43	Recopilando reglas
+03/10/2018 7:09:43	Recopilando enlaces UDDT de restricción de datos
+03/10/2018 7:09:43	Recopilando tipos de mensaje
+03/10/2018 7:09:43	Recopilando colas
+03/10/2018 7:09:43	Recopilando contratos
+03/10/2018 7:09:43	Recopilando servicios
+03/10/2018 7:09:43	Recopilando notificaciones de eventos
+03/10/2018 7:09:43	Recopilando enlaces de servicio remoto
+03/10/2018 7:09:43	Recopilando prioridades de Broker
+03/10/2018 7:09:43	Recopilando firmas
+03/10/2018 7:09:43	Recopilando opciones de compresión de datos
+03/10/2018 7:09:43	Recopilando tipos de secuencia
+03/10/2018 7:09:43	Recopilando directivas de seguridad
+03/10/2018 7:09:43	Recopilar claves de cifrado de columna
+03/10/2018 7:09:43	Recopilando claves maestras de columna
+03/10/2018 7:09:43	Recopilando orígenes de datos externos
+03/10/2018 7:09:43	Recopilando formatos de archivo externos
+03/10/2018 7:09:44	Recopilando tablas externas
+03/10/2018 7:09:44	Recopilando propiedades extendidas
+03/10/2018 7:09:44	Recopilando credenciales
+03/10/2018 7:09:44	Recopilando inicios de sesión
+03/10/2018 7:09:44	Recopilando auditorías de servidor
+03/10/2018 7:09:45	Buscando elementos duplicados en el proyecto
+03/10/2018 7:09:45	Ha finalizado el procesamiento de los elementos duplicados
+03/10/2018 7:09:45	Finalizó la importación de la base de datos.
+03/10/2018 7:09:45	Se guardó un resumen de la importación en la siguiente ubicación: D:\BDII\Human_Resources\Human_ResourcesDB\Registros de importación de esquemas\Human_ResourcesDB_20181003120930.log
+03/10/2018 7:09:45	Haga clic en Finalizar para continuar...
