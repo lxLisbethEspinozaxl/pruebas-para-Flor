@@ -77,9 +77,6 @@
     <Build Include="dbo\Functions\InitCap.sql" />
     <Build Include="dbo\Functions\trunc.sql" />
     <None Include="LabNro01\ActividadNro05.sql" />
-    <None Include="LabNro01\ActividadNro06.sql" />
-    <None Include="LabNro01\ActividadNro07.sql" />
-    <None Include="LabNro01\ActividadNro08.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="LabNro01\ActividadNro01.sql" />
