@@ -76,6 +76,7 @@
     <Build Include="dbo\Functions\LPAD.sql" />
     <Build Include="dbo\Functions\InitCap.sql" />
     <Build Include="dbo\Functions\trunc.sql" />
+    <None Include="LabNro01\Copia de ActividadNro04.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="LabNro01\ActividadNro01.sql" />
